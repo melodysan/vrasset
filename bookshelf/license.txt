@@ -1,0 +1,11 @@
+Model Information:
+* title:	BookShelf
+* source:	https://sketchfab.com/3d-models/bookshelf-040104ba32604384a3a0d8dd8d22a148
+* author:	Galactic Studio (https://sketchfab.com/galactic-studios)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BookShelf" (https://sketchfab.com/3d-models/bookshelf-040104ba32604384a3a0d8dd8d22a148) by Galactic Studio (https://sketchfab.com/galactic-studios) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
